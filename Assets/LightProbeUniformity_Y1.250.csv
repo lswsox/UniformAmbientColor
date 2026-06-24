@@ -1,12 +1,12 @@
 ﻿Metric,Value
 ProbeCount,100
 SelectedHeights,"Y1.250"
-Light Intensity,2.0000
-Indirect Multiplier,1.0000
-Light Range,90.0000
-Min,0.1713
-Max,4.2423
-Mean,0.5343
-StdDev,0.7877
-CV (변동계수),1.4742
-UniformityRatio (Min/Max),0.0404
+Light Intensity,0.0001
+Indirect Multiplier,10000.0000
+Light Range,100.0000
+Min,0.0610
+Max,0.1191
+Mean,0.0895
+StdDev,0.0137
+CV (변동계수),0.1531
+UniformityRatio (Min/Max),0.5123
